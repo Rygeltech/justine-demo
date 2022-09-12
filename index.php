@@ -26,6 +26,7 @@
         <li class="nav-item"><a href="#" class="nav-link">FAQs</a></li>
         <li class="nav-item"><a href="#" class="nav-link">About</a></li>
       </ul>
+      <h1>hello world</h1>
     </header>
   </div>
 
