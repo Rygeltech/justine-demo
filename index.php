@@ -32,9 +32,9 @@
   
   <div class="px-4 py-5 my-5 text-center">
     <img class="d-block mx-auto mb-4" src="assets/starbacks.png" alt="" width="172" height="157">
-    <h1 class="display-5 fw-bold">Starbucks</h1>
+    <h1 class="display-5 fw-bold">Unknown name</h1>
     <div class="col-lg-6 mx-auto">
-      <p class="lead mb-4">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+      <p class="lead mb-4">Don't Stop when you're tired, stop when you're Done.</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
         <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Get Started</button>
         <button type="button" class="btn btn-outline-secondary btn-lg px-4">Login</button>
